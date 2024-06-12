@@ -1,6 +1,6 @@
 {
   "name": "@ludlovian/equal",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Test for deep equality",
   "main": "src/index.mjs",
   "exports": {
